@@ -58,6 +58,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: >-
+        /images/fundo-plano-de-mesa-de-vista-superior-com-computador-portatil-e-equipamento-de-escritorio-para-area-de-trabalho-vazia_619210-365.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
